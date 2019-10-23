@@ -1,6 +1,4 @@
-// kk4036_hw14_Divide_and_Conquer.cpp 
 
-#include "pch.h"
 #include <iostream>
 #include <vector>
 #include <algorithm>
